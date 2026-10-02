@@ -1,22 +1,29 @@
-# main links links
-main:
+# Bilingual navigation.
+# English homepage: /
+# Chinese homepage: /zh/
+
+main_en:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Research"
+    url: "/#research"
+
+  - title: "Education"
+    url: "/#education"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+main_zh:
+  - title: "关于我"
+    url: "/zh/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "研究方向"
+    url: "/zh/#research"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "教育与学术经历"
+    url: "/zh/#education"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "学术论文"
+    url: "/zh/#publications"
