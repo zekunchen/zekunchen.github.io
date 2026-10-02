@@ -24,7 +24,7 @@ I am currently a Postdoctoral Researcher at the School of Physics, Northeast Nor
 I received my Ph.D. degree in Applied Physics from Northeast Normal University, Changchun, China, in 2025, my M.Eng. degree in Communication and Information Systems from Fujian Normal University, Fuzhou, China, in 2020, and my B.Eng. degree in Electronic Information Engineering from Fujian Jiangxia University, Fuzhou, China, in 2015.
 
 
-For an up-to-date publication record, please see [Google Scholar](https://scholar.google.de/citations?user=dFJl65IAAAAJ). Total citations: **<span id="total_cit">--</span>**.
+For an up-to-date publication record, please see [Google Scholar](https://scholar.google.de/citations?user=dFJl65IAAAAJ). 
 
 <span class="anchor" id="research"></span>
 
