@@ -5,6 +5,7 @@
   details: vol. 13, no. 16, pp. 35966–35977
   url: ''
   scholar_id: ''
+  role: First Corresponding Author
 - year: 2026
   title: An integrated wearable microfluidic electrochemical/colorimetric intelligent sensing platform for comprehensive sweat analysis
   authors: Huan Wang, Xue Liang, Lijia Zhao, Ziyi Wang, Ren Wang, <strong>Zekun Chen*</strong>, and Guiye Shan*
@@ -12,6 +13,7 @@
   details: vol. 306, 118746
   url: ''
   scholar_id: ''
+  role: First Corresponding Author
 - year: 2026
   title: Deep Plug-and-play Prior for Enhanced Electrical Impedance Tomography
   authors: <strong>Zekun Chen</strong>, Xuefei Chen, Luhao Zhang, Haihua Li, and Shili Liang*
@@ -19,6 +21,7 @@
   details: vol. 195, 114999
   url: ''
   scholar_id: ''
+  role: First Author
 - year: 2026
   title: Multifunctional TA-CuS NPs-based conductive hydrogel with antibacterial capability for wearable real-time human motion sensor
   authors: Lijia Zhao, Shuang Ma, Huan Wang, <strong>Zekun Chen</strong>, Ren Wang, and Guiye Shan*
@@ -26,6 +29,7 @@
   details: vol. 528, 172173
   url: ''
   scholar_id: ''
+  role: ''
 - year: 2025
   title: Geometric Shape Characterization-based Algorithm for Electrical Impedance Tomography Reconstruction
   authors: <strong>Zekun Chen</strong>, Leilei Shi, Xiupeng Qiao, Bowen Li, and Shili Liang*
@@ -33,6 +37,7 @@
   details: vol. 106, 102973
   url: ''
   scholar_id: ''
+  role: First Author
 - year: 2025
   title: sEMG-Based Gesture Recognition via Multi-Feature Fusion Network
   authors: <strong>Zekun Chen</strong>, Xiupeng Qiao, Shili Liang*, Tao Yan, and Zhongye Chen
@@ -40,6 +45,7 @@
   details: vol. 29, no. 4, pp. 2570–2580
   url: ''
   scholar_id: ''
+  role: First Author
 - year: 2025
   title: 'MSA-Former: Multi-Scale Adaptive Transformer for Image Snow Removal'
   authors: Bin Wang, <strong>Zekun Chen</strong>, Lei Zhang*, Shili Liang, Sijia Guo, Xinyu Kang, and Huajing Li
@@ -47,6 +53,7 @@
   details: ''
   url: ''
   scholar_id: ''
+  role: ''
 - year: 2025
   title: Adaptive Myo-Spatial Correction for Overcoming Electrode Shifts Impact in sEMG-Based Gesture Recognition
   authors: Tao Yan, Shili Liang*, Liwen Mu, <strong>Zekun Chen</strong>, Yansheng Wu, Lei Zhang, and Suqiu Wang
@@ -54,6 +61,7 @@
   details: vol. 103, 107356
   url: ''
   scholar_id: ''
+  role: ''
 - year: 2024
   title: Electrical Impedance Tomography for Thorax Image Using Connected Component Labeling and Sparse Group Lasso
   authors: <strong>Zekun Chen</strong>, Ling Zhang, Shili Liang*, Suqiu Wang, and Lei Zhang
@@ -61,6 +69,7 @@
   details: vol. 73, pp. 1–12
   url: ''
   scholar_id: ''
+  role: First Author
 - year: 2024
   title: 'Untethering EIT: An Integrated Wireless Tactile Interface for Human-Machine Interaction'
   authors: Leilei Shi, <strong>Zekun Chen</strong>, Shili Liang*, Jingfu Guo*, Zhongye Chen, Suqiu Wang, Lei Zhang, and Haina Zhang
@@ -68,6 +77,7 @@
   details: vol. 73, pp. 1–12
   url: ''
   scholar_id: ''
+  role: ''
 - year: 2024
   title: Portable Adjustable Electrical Impedance Tomography System
   authors: <strong>Zekun Chen</strong> and Shili Liang*
@@ -75,6 +85,7 @@
   details: Hangzhou, China, June 27–30, 2024
   url: ''
   scholar_id: ''
+  role: First Author
 - year: 2024
   title: 'Training-free prosthetic grasping: Synergizing robust muscle force control and voice assistance'
   authors: Zhongye Chen, Haiheng Wang, <strong>Zekun Chen</strong>, Haihua Li, Lei Zhang, Suqiu Wang, Leilei Shi, and Shili Liang*
@@ -82,6 +93,7 @@
   details: vol. 122, 110482
   url: ''
   scholar_id: ''
+  role: ''
 - year: 2024
   title: Spatiotemporal Meteorological Prediction Based on Fully Convolutional Neural Networks
   authors: Jiaqi Zhang, Bin Wang, Mingyang Hua, <strong>Zekun Chen</strong>, Shili Liang*, and Xinyu Kang
@@ -89,6 +101,7 @@
   details: vol. 62, pp. 1–18
   url: ''
   scholar_id: ''
+  role: ''
 - year: 2024
   title: sEMG-based Fine-grained Gesture Recognition via Improved LightGBM Model
   authors: Xiupeng Qiao, <strong>Zekun Chen</strong>, and Shili Liang*
@@ -96,6 +109,7 @@
   details: arXiv:2404.11861
   url: https://arxiv.org/abs/2404.11861
   scholar_id: ''
+  role: ''
 - year: 2024
   title: Lower Limb Movements Recognition Based on Feature Recursive Elimination and Backpropagation Neural Network
   authors: Yongkai Ma, Shili Liang*, and <strong>Zekun Chen</strong>
@@ -103,6 +117,7 @@
   details: arXiv:2404.11383
   url: https://arxiv.org/abs/2404.11383
   scholar_id: ''
+  role: ''
 - year: 2024
   title: Two-Stage Nighttime Desnowing Diffusion Model Based on Pseudo-Scenario Reconstruction
   authors: Huajing Li, Bin Wang, <strong>Zekun Chen</strong>, Lei Zhang*, Shili Liang, and Sijia Guo
@@ -110,6 +125,7 @@
   details: pp. 203–207
   url: ''
   scholar_id: ''
+  role: ''
 - year: 2024
   title: Algorithm for Skin Perfusion Images Based on Photoplethysmography Imaging
   authors: Mingyang Hua, Jiaqi Zhang, <strong>Zekun Chen</strong>, and Shili Liang*
@@ -117,6 +133,7 @@
   details: Qingdao, China
   url: ''
   scholar_id: ''
+  role: ''
 - year: 2023
   title: 'Brain-like Retinex: A Biologically Plausible Retinex Algorithm for Low Light Image Enhancement'
   authors: Rongtai Cai* and <strong>Zekun Chen</strong>
@@ -124,6 +141,7 @@
   details: vol. 136, 109195
   url: ''
   scholar_id: ''
+  role: ''
 - year: 2023
   title: Difference Analysis of Musculation and Estimation of sEMG-to-force in Process of Increasing Force and Decreasing Force
   authors: Yansheng Wu, Shili Liang*, <strong>Zekun Chen</strong>, Xiupeng Qiao, and Yongkai Ma
@@ -131,6 +149,7 @@
   details: vol. 228, 120445
   url: ''
   scholar_id: ''
+  role: ''
 - year: 2020
   title: Contour Detection by Simulating The Curvature Cell in The Visual Cortex and Its Application To Object Classification
   authors: <strong>Zekun Chen</strong> and Rongtai Cai*
@@ -138,3 +157,4 @@
   details: vol. 8, pp. 74472–74484
   url: ''
   scholar_id: ''
+  role: First Author

@@ -1,36 +1,30 @@
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
 {% assign current_year = "" %}
 
-{% if include.lang == "zh" %}
-<p>以下论文信息根据个人简历整理。论文标题和期刊/会议名称保留正式英文名称；最新论文列表请以 <a href="{{ site.author.googlescholar }}">Google Scholar</a> 为准。</p>
-{% else %}
 <p>The list below is organized from the CV. Paper titles and venue names are kept in their published form. Please see <a href="{{ site.author.googlescholar }}">Google Scholar</a> for the most up-to-date record.</p>
-{% endif %}
 
 {% for pub in pubs %}
-  {% if pub.year != current_year %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h3>{{ pub.year }}</h3>
-    <ul>
-    {% assign current_year = pub.year %}
-  {% endif %}
-
-  <li style="margin-bottom: 0.9em;">
-    <strong>{{ pub.title }}</strong><br>
-    {{ pub.authors }}<br>
-    <em>{{ pub.venue }}</em>{% if pub.details and pub.details != "" %}, {{ pub.details }}{% endif %}.
-    {% if pub.url and pub.url != "" %}
-      <a href="{{ pub.url }}">[Paper]</a>
-    {% endif %}
-    {% if pub.scholar_id and pub.scholar_id != "" %}
-      <strong><span class="show_paper_citations" data="{{ site.google_scholar_id }}:{{ pub.scholar_id }}"></span></strong>
-    {% endif %}
-  </li>
-{% endfor %}
-{% if pubs.size > 0 %}</ul>{% endif %}
-
-{% if include.lang == "zh" %}
-<p><small>* 作者名后的星号沿用简历中的通讯作者标记。</small></p>
-{% else %}
-<p><small>* Asterisks after author names follow the corresponding-author notation used in the CV.</small></p>
+{% if pub.year != current_year %}
+<h3>{{ pub.year }}</h3>
+{% assign current_year = pub.year %}
 {% endif %}
+
+<div style="margin-bottom: 1.15em;">
+<strong>{{ pub.title }}</strong>
+{% if pub.role and pub.role != "" %}
+&nbsp; <strong>[{{ pub.role }}]</strong>
+{% endif %}
+<br>
+{{ pub.authors }}
+<br>
+<em>{{ pub.venue }}</em>{% if pub.details and pub.details != "" %}, {{ pub.details }}{% endif %}, {{ pub.year }}.
+{% if pub.url and pub.url != "" %}
+<a href="{{ pub.url }}">[Paper]</a>
+{% endif %}
+{% if pub.scholar_id and pub.scholar_id != "" %}
+<strong><span class="show_paper_citations" data="{{ site.google_scholar_id }}:{{ pub.scholar_id }}"></span></strong>
+{% endif %}
+</div>
+{% endfor %}
+
+<p><small>* Asterisks after author names follow the corresponding-author notation used in the CV.</small></p>
