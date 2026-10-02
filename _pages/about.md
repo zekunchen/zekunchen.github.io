@@ -21,7 +21,7 @@ redirect_from:
 
 Zekun Chen received the B.Eng. degree in Electronic Information Engineering from Fujian Jiangxia University, Fuzhou, China, in 2015, the M.Eng. degree in Communication and Information Systems from Fujian Normal University, Fuzhou, China, in 2020, and the Ph.D. degree in Applied Physics from Northeast Normal University, Changchun, China, in 2025.
 
-He is currently a Postdoctoral Researcher with the School of Physics, Northeast Normal University. His research interests include electrical impedance tomography, image processing, and machine learning.
+He is currently a Postdoctoral Researcher with the School of Physics, Northeast Normal University. His research interests include electrical impedance tomography, image processing, machine learning and deep learning.
 
 For an up-to-date publication record, please see [Google Scholar](https://scholar.google.de/citations?user=dFJl65IAAAAJ). Total citations: **<span id="total_cit">--</span>**.
 
