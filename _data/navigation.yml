@@ -1,8 +1,4 @@
-# Bilingual navigation.
-# English homepage: /
-# Chinese homepage: /zh/
-
-main_en:
+main:
   - title: "About Me"
     url: "/#about-me"
 
@@ -14,16 +10,3 @@ main_en:
 
   - title: "Publications"
     url: "/#publications"
-
-main_zh:
-  - title: "关于我"
-    url: "/zh/#about-me"
-
-  - title: "研究方向"
-    url: "/zh/#research"
-
-  - title: "教育与学术经历"
-    url: "/zh/#education"
-
-  - title: "学术论文"
-    url: "/zh/#publications"

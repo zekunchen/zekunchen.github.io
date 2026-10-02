@@ -3,7 +3,6 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-lang: en
 redirect_from:
   - /about/
   - /about.html
@@ -38,19 +37,15 @@ For an up-to-date publication record, please see [Google Scholar](https://schola
 
 # Education & Academic Position
 
-- **2025.08 – 2027.08**, Postdoctoral Researcher, School of Physics, Northeast Normal University, Changchun, China.  
-  Research topic: *Implementation and Applications of Electrical Impedance Tomography Systems for Dynamic Monitoring*.
+- **2025.08 – Present**, Postdoctoral Researcher, School of Physics, Northeast Normal University, Changchun, China.
 
 - **2021.09 – 2025.06**, Ph.D. in Applied Physics, School of Physics, Northeast Normal University, Changchun, China.  
-  Dissertation: *Research on Electrical Impedance Tomography Based on High Spatial Resolution*.  
   Supervisor: Prof. Shili Liang.
 
 - **2017.09 – 2020.06**, M.Eng. in Communication and Information Systems, Fujian Normal University, Fuzhou, China.  
-  Thesis: *Contour Representation Based on Endpoints and Curvature and Its Applications*.  
   Supervisor: Assoc. Prof. Rongtai Cai.
 
-- **2011.09 – 2015.06**, B.Eng. in Electronic Information Engineering, Fujian Jiangxia University, Fuzhou, China.  
-  Undergraduate thesis: *Numerical Simulation of FBG Based on MATLAB and Its Application Analysis*.
+- **2011.09 – 2015.06**, B.Eng. in Electronic Information Engineering, Fujian Jiangxia University, Fuzhou, China.
 
 <span class="anchor" id="publications"></span>
 

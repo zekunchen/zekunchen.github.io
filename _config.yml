@@ -7,13 +7,9 @@
 
 # Site Settings
 title                    : "Zekun Chen"
-description              : "Academic homepage of Zekun Chen / 陈泽坤个人学术主页"
+description              : "Academic homepage of Zekun Chen"
 repository               : "zekunchen/zekunchen.github.io"
 google_scholar_stats_use_cdn : true
-
-# Used by the publication template below.
-# NOTE: The GitHub Actions crawler still needs the repository secret
-# GOOGLE_SCHOLAR_ID=dFJl65IAAAAJ as described in the original README.
 google_scholar_id        : "dFJl65IAAAAJ"
 
 # Google Analytics (optional)
@@ -27,17 +23,10 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Zekun Chen"
-
-  # Keep the existing image path so the site will not break immediately.
-  # If you want to use your own portrait, put e.g. images/profile.jpg in the
-  # repository and change this line to: avatar: "images/profile.jpg"
   avatar           : "images/android-chrome-512x512.png"
-
-  # The sidebar is shared by the English and Chinese pages, so these short
-  # fields are intentionally bilingual.
-  bio              : "Postdoctoral Researcher / 博士后研究员"
-  location         : "Changchun, China / 中国·长春"
-  employer         : "Northeast Normal University / 东北师范大学"
+  bio              : "Postdoctoral Researcher"
+  location         : "Changchun, China"
+  employer         : "Northeast Normal University"
 
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=dFJl65IAAAAJ"
